@@ -97,8 +97,6 @@ Hypothetical clinical data collected from patient records at a medical facility.
 - For advanced analysis, consider additional statistical tests (e.g., logistic regression) or machine learning models (e.g., decision trees).
 
 #### Contact
-For questions about this dataset, assume contact with the hypothetical data provider: `data.support@xai.com`.
+For questions about this dataset, assume contact with the hypothetical data provider: `bloodmachine300@gmail.com`.
 
----
 
-This documentation provides a foundation for working with a "Diabetes Data" dataset. If you have a specific file or structure in mind, please provide more details, and I’ll tailor the documentation further!
